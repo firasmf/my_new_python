@@ -1,6 +1,8 @@
 import os
 import sys
 
-os.system('ls')
+import time
 
+#os.system('ls')
 print(sys.version)
+print(time.asctime())

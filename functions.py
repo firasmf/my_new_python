@@ -10,3 +10,6 @@ line_fun()
 print('data2')
 line_fun()
 addtion(20,30)
+
+
+print(len("hello"))
